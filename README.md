@@ -17,7 +17,7 @@ A React-based meme generator that allows users to create and download custom mem
 
 ```bash
 # Clone the repository
-[git clone [your-repository-url]](https://github.com/Saurav1-2/meme-generator.git)
+[git clone [https://github.com/Saurav1-2/meme-generator.git]
 
 # Navigate to project directory
 cd meme-generator
